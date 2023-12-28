@@ -5,7 +5,7 @@ www.dio.me
 Este é o terceiro desafio de projeto do Bootcamp Decola Tech 2024, sendo feito durante o módulo de Orientação a Objetos com C#. Para este projeto, desenvolvi os requisitos solicitados e obrigatórios para o desafio, deixando em aberto por ser a versão 1.0. Pretendo, conforme avanço no conhecimento da linguagem, aprimorá-lo num futuro próximo.
 
 ## ❓ Contexto
-Foi disponibilizado um projeto base console com duas classes (ValidacoesLista e ValidacoesString, cada qual com seus respectivos métodos prontos) e um projeto do tipo testes, também com duas classes (ValidacoesListaTests e ValidacoesStringTests). No projeto de testes, temos alguns trechos de código faltando ou incorretos. A ideia foi, portanto, consertar esse código de forma que o teste fosse feito de forma correta de modo a validar as alterações realizadas.
+Foi disponibilizado um projeto base console com duas classes (ValidacoesLista e ValidacoesString, cada qual com seus respectivos métodos prontos) e um projeto do tipo testes, também com duas classes (ValidacoesListaTests e ValidacoesStringTests). No projeto de testes, temos alguns trechos de código faltando ou incorretos. A ideia foi, portanto, consertar esse código de forma que o teste fosse feito de forma correta, possibilitando uma apropriada verificação e validação das alterações realizadas.
 
 ## 📌 Premissas
 O sistema hoje possui dois projetos: um do tipo console, e um do tipo testes com **xUnit**. O projeto do tipo console possui duas classes em que são realizadas as lógicas principais: **ValidacoesLista** e **ValidacoesString**. Essas classes contém métodos em comum que são usados para realizar diversas validações em determinados cenários.
